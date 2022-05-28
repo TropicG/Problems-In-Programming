@@ -1,13 +1,13 @@
-Here you can find problems which we have covered in our classes and homeworks that have been given to us during the semester. The course had as a goal to teach us the basic principles to programming and making the students 'think' just like programmers do. 
+Here you can find solutions to the problems in different chapters of the book "Problems in Programming". This book was recomended by our assistant and I decided to start solving the problems so I can sharpen my C++ skills.
 
-Here is what we covered in this course:
-- C++ syntax, variables
-- std::cin and std::cout
-- if else statements as well logic operators
-- while, for, do while loops
-- functions
-- pointers and references
-- dynamic memory and heap
-- structures 
-
-I will add soon and solution to the exercises given to us during our exam during the semester.
+Thought the book I covered these chapters:
+- Chapter I: Introduction and basic examples
+- Chapter II: Types and functions
+- Chapter III: Loops, arrays and strings
+- Chapter IV: Pointers and programming stack
+- Chapter V: Recursion
+- Chapter VI: Structs
+- Chapter VII: Dynamic memory
+- Chapter VIII: Templates
+- Chapter IX: Classes I: basic classes, methods and operators
+- Chapter X: Life cycles of the objects
